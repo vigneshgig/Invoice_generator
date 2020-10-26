@@ -5,6 +5,10 @@ https://github.com/kagundajm/react-pdf-tables.git
     - we also convert this project to windows application using electron - Tested, Passed
     - Using Capacitor we can convert into mobile application only problem i faced is pdf screen is not showing in mobile screen - Tested ,Failed.
     - By default it will run as a window application because of electron config. So if we want to run it as web application ,just rename package_web_application_config.json to package.json and run it again.
+![image](https://github.com/vigneshgig/oyo_Invoice_generator/blob/master/image/invoice_pic.PNG)
+![image](https://github.com/vigneshgig/oyo_Invoice_generator/blob/master/image/invoice_pic_2.PNG)
+![image](https://github.com/vigneshgig/oyo_Invoice_generator/blob/master/image/invoice_pic_3.PNG)
+
 
 ## Available Scripts
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
